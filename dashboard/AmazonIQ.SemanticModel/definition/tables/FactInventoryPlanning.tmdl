@@ -1,0 +1,80 @@
+table FactInventoryPlanning
+	lineageTag: fact-inventory
+
+	column category_id
+		dataType: string
+		lineageTag: fip-cat-id
+		sourceColumn: category_id
+
+	column safety_stock
+		dataType: double
+		formatString: 0.0
+		lineageTag: fip-ss
+		sourceColumn: safety_stock
+
+	column reorder_point
+		dataType: double
+		formatString: 0.0
+		lineageTag: fip-rop
+		sourceColumn: reorder_point
+
+	column mape_pct_baseline
+		dataType: double
+		formatString: 0.0
+		lineageTag: fip-mape
+		sourceColumn: mape_pct_baseline
+
+	column mape_buffer_multiplier
+		dataType: double
+		formatString: 0.000
+		lineageTag: fip-mape-mult
+		sourceColumn: mape_buffer_multiplier
+
+	column forecast_error_std_backtest
+		dataType: double
+		formatString: 0.0000
+		lineageTag: fip-sigma
+		sourceColumn: forecast_error_std_backtest
+
+	column high_uncertainty_flag
+		dataType: boolean
+		lineageTag: fip-high-flag
+		sourceColumn: high_uncertainty_flag
+
+	column uncertainty_tier
+		dataType: string
+		lineageTag: fip-tier
+		sourceColumn: uncertainty_tier
+
+	column service_level_pct
+		dataType: double
+		formatString: 0
+		lineageTag: fip-sl
+		sourceColumn: service_level_pct
+
+	column lead_time_weeks
+		dataType: int64
+		formatString: 0
+		lineageTag: fip-lt
+		sourceColumn: lead_time_weeks
+
+	column demand_during_lead_time
+		dataType: double
+		formatString: 0.0
+		lineageTag: fip-ddlt
+		sourceColumn: demand_during_lead_time
+
+	partition FactInventoryPlanning = m
+		mode: import
+		source = 
+		let
+			Source = Csv.Document(
+				File.Contents("../../../data/processed/fact_inventory_planning.csv"),
+				[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]
+			),
+			#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+			#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"category_id", type text}, {"category_name", type text}, {"keyword", type text}, {"service_level_pct", type number}, {"z_score", type number}, {"lead_time_weeks", Int64.Type}, {"avg_weekly_demand_proxy", type number}, {"demand_during_lead_time", type number}, {"forecast_error_std_backtest", type number}, {"mape_pct_baseline", type number}, {"mape_buffer_multiplier", type number}, {"forecast_error_std_adjusted", type number}, {"safety_stock", type number}, {"reorder_point", type number}, {"uncertainty_tier", type text}, {"high_uncertainty_flag", type logical}, {"metric_label", type text}, {"assumption_note", type text}, {"source_id", type text}})
+		in
+			#"Changed Type"
+
+	annotation PBI_ResultType = Table

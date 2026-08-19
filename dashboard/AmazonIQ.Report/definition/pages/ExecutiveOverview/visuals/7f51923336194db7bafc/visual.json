@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "7f51923336194db7bafc",
+  "position": {
+    "x": 640,
+    "y": 40,
+    "z": 1000,
+    "width": 280,
+    "height": 120,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "Service Level Assumption"
+                }
+              },
+              "queryRef": "_Metrics.Service Level Assumption",
+              "nativeQueryRef": "Service Level Assumption"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,14 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+ref table DimCategory
+ref table FactSearchInterest
+ref table FactRollingForecastError
+ref table FactInventoryPlanning
+ref table FactForecastMetrics
+ref table FactCensusRetail
+ref table _Metrics

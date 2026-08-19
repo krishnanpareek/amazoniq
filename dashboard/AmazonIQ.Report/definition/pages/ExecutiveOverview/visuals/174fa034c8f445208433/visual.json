@@ -1,0 +1,56 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "174fa034c8f445208433",
+  "position": {
+    "x": 40,
+    "y": 200,
+    "z": 1000,
+    "width": 600,
+    "height": 480,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "clusteredBarChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "DimCategory"
+                    }
+                  },
+                  "Property": "category_name"
+                }
+              },
+              "queryRef": "DimCategory.category_name",
+              "nativeQueryRef": "category_name"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "DimCategory"
+                    }
+                  },
+                  "Property": "baseline_mape_pct"
+                }
+              },
+              "queryRef": "Sum(DimCategory.baseline_mape_pct)",
+              "nativeQueryRef": "baseline_mape_pct"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

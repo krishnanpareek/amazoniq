@@ -1,0 +1,74 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "3b1ad82afb82458699d9",
+  "position": {
+    "x": 40,
+    "y": 480,
+    "z": 1000,
+    "width": 1200,
+    "height": 200,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "lineChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FactRollingForecastError"
+                    }
+                  },
+                  "Property": "ds"
+                }
+              },
+              "queryRef": "FactRollingForecastError.ds",
+              "nativeQueryRef": "ds"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "Rolling MAPE 4W"
+                }
+              },
+              "queryRef": "_Metrics.Rolling MAPE 4W",
+              "nativeQueryRef": "Rolling MAPE 4W"
+            }
+          ]
+        },
+        "Series": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "DimCategory"
+                    }
+                  },
+                  "Property": "category_name"
+                }
+              },
+              "queryRef": "DimCategory.category_name",
+              "nativeQueryRef": "category_name"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

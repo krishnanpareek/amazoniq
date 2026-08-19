@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/report/1.0.0/schema.json",
+  "themeCollection": {
+    "baseTheme": {
+      "name": "CY24SU10",
+      "reportVersionAtImport": "5.59",
+      "type": "SharedResources"
+    }
+  },
+  "layoutOptimization": "None",
+  "annotations": [
+    {
+      "name": "disclaimer",
+      "value": "Illustrative planning on Google Trends search-interest proxy. Not Amazon warehouse units. Custom MAPE-adjusted safety stock \u2014 see docs/inventory_methodology.md."
+    },
+    {
+      "name": "catalogParityNote",
+      "value": "DQ-025: Garden catalog 26.4x smaller than Clothing \u2014 raw counts shown; do not imply parity."
+    }
+  ]
+}

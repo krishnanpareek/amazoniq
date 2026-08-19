@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "39916b96bc5f43ed9e1c",
+  "position": {
+    "x": 340,
+    "y": 40,
+    "z": 1000,
+    "width": 280,
+    "height": 120,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "High Uncertainty Categories"
+                }
+              },
+              "queryRef": "_Metrics.High Uncertainty Categories",
+              "nativeQueryRef": "High Uncertainty Categories"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

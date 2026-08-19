@@ -1,0 +1,7 @@
+category_id,category_name,keyword,model,train_weeks,test_weeks,test_start,test_end,mape_pct,weak_accuracy_flag,weak_accuracy_reason,source_id
+electronics,Electronics,headphones,prophet,235,26,2026-02-15,2026-08-09,30.22,True,MAPE 30.2% exceeds 25% threshold; April 2026 spike (DQ-011) — atypical vs holiday seasonality,SRC-TRENDS-001
+home_kitchen,Home & Kitchen,air fryer,prophet,235,26,2026-02-15,2026-08-09,19.58,True,moderate MAPE 19.6%,SRC-TRENDS-001
+clothing,Clothing & Accessories,running shoes,prophet,235,26,2026-02-15,2026-08-09,40.04,True,MAPE 40.0% exceeds 25% threshold,SRC-TRENDS-001
+health,Health & Personal Care,vitamins,prophet,235,26,2026-02-15,2026-08-09,14.51,False,July 2026 spike (DQ-013) — peak outside expected January window; low volatility (std < 8) — MAPE sensitive to small absolute errors,SRC-TRENDS-001
+garden,"Patio, Lawn & Garden",lawn mower,prophet,235,26,2026-02-15,2026-08-09,18.89,True,Strong spring seasonality; keyword 'lawn mower' is narrow vs Census garden analog,SRC-TRENDS-001
+toys,Toys & Games,toys,prophet,235,26,2026-02-15,2026-08-09,16.66,True,moderate MAPE 16.7%,SRC-TRENDS-001

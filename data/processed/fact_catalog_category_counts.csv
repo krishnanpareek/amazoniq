@@ -1,0 +1,39 @@
+amazoniq_category_id,amazoniq_category_name,source_category_id,source_category_name,mapping_note,source_id,product_count_full
+electronics,Electronics,68,Wearable Technology,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,8089
+electronics,Electronics,69,Televisions & Video Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,8823
+electronics,Electronics,71,Headphones & Earbuds,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,9242
+electronics,Electronics,73,Portable Audio & Video,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,8859
+electronics,Electronics,75,Cell Phones & Accessories,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,3444
+electronics,Electronics,79,Camera & Photo,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,6169
+electronics,Electronics,82,Home Audio & Theater Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,4826
+home_kitchen,Home & Kitchen,166,Furniture,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,5829
+home_kitchen,Home & Kitchen,170,Kitchen & Dining,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,4882
+home_kitchen,Home & Kitchen,201,Home Appliances,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7006
+clothing,Clothing & Accessories,84,Boys' Clothing,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,24660
+clothing,Clothing & Accessories,90,Boys' Shoes,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,5975
+clothing,Clothing & Accessories,91,Girls' Clothing,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,28619
+clothing,Clothing & Accessories,97,Girls' Shoes,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,10938
+clothing,Clothing & Accessories,110,Men's Clothing,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,18258
+clothing,Clothing & Accessories,114,Men's Shoes,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,19822
+clothing,Clothing & Accessories,116,Women's Clothing,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,17393
+clothing,Clothing & Accessories,122,Women's Shoes,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,15626
+health,Health & Personal Care,45,Beauty & Personal Care,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,2876
+health,Health & Personal Care,47,Hair Care Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,8669
+health,Health & Personal Care,49,Skin Care Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,8074
+health,Health & Personal Care,52,Personal Care Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,1301
+health,Health & Personal Care,131,Health Care Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,3791
+health,Health & Personal Care,132,Diet & Sports Nutrition,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,2291
+health,Health & Personal Care,136,Sports Nutrition Products,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,4421
+garden,"Patio, Lawn & Garden",195,Smart Home: Lawn and Garden,analogical — no Patio/Lawn & Garden browse node,SRC-KAGGLE-002,76
+garden,"Patio, Lawn & Garden",199,Outdoor Recreation,analogical — no Patio/Lawn & Garden browse node,SRC-KAGGLE-002,3550
+garden,"Patio, Lawn & Garden",215,Tools & Home Improvement,analogical — no Patio/Lawn & Garden browse node,SRC-KAGGLE-002,1719
+toys,Toys & Games,217,Toy Figures & Playsets,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7973
+toys,Toys & Games,218,Novelty Toys & Amusements,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7432
+toys,Toys & Games,220,Building Toys,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,6398
+toys,Toys & Games,221,Dolls & Accessories,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7521
+toys,Toys & Games,223,Games & Accessories,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7789
+toys,Toys & Games,224,Learning & Education Toys,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,3575
+toys,Toys & Games,227,Puzzles,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,7181
+toys,Toys & Games,229,Stuffed Animals & Plush Toys,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,5398
+toys,Toys & Games,230,Baby & Toddler Toys,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,9020
+toys,Toys & Games,270,Toys & Games,leaf node rolled to AmazonIQ category,SRC-KAGGLE-002,20846

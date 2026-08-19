@@ -1,0 +1,9 @@
+pandas==3.0.5
+openpyxl==3.1.5
+pytrends==4.9.2
+kaggle==2.2.4
+python-dateutil>=2.8.2
+jupyter
+prophet==1.3.0
+statsmodels
+numpy

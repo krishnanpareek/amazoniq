@@ -1,0 +1,123 @@
+table _Metrics
+	lineageTag: metrics-table
+
+	/// Stated default service level assumption (95%).
+	measure 'Service Level Assumption' = 0.95
+		formatString: 0.0%
+
+	/// Z-score for 95% one-sided service level.
+	measure 'Z Score (95%)' = 1.645
+		formatString: 0.000
+
+	/// Illustrative lead time in weeks.
+	measure 'Lead Time Weeks' = 2
+		formatString: 0
+
+	/// Custom MAPE-adjusted safety stock recomputed in DAX (not a pass-through).
+	measure 'Safety Stock (Modeled)' =
+			SUMX (
+			    FactInventoryPlanning,
+			    [Z Score (95%)]
+			        * FactInventoryPlanning[forecast_error_std_backtest]
+			        * ( 1 + FactInventoryPlanning[mape_pct_baseline] / 100 )
+			        * SQRT ( [Lead Time Weeks] )
+			)
+		formatString: #,0.0
+
+	/// Stored safety stock from Python pipeline (should match Modeled).
+	measure 'Safety Stock (Stored)' = SUM ( FactInventoryPlanning[safety_stock] )
+		formatString: #,0.0
+
+	/// Reorder point recomputed: demand during lead time + modeled safety stock.
+	measure 'Reorder Point (Modeled)' =
+			SUMX (
+			    FactInventoryPlanning,
+			    FactInventoryPlanning[demand_during_lead_time]
+			        + [Z Score (95%)]
+			            * FactInventoryPlanning[forecast_error_std_backtest]
+			            * ( 1 + FactInventoryPlanning[mape_pct_baseline] / 100 )
+			            * SQRT ( [Lead Time Weeks] )
+			)
+		formatString: #,0.0
+
+	measure 'Reorder Point (Stored)' = SUM ( FactInventoryPlanning[reorder_point] )
+		formatString: #,0.0
+
+	/// Phase 3 holdout MAPE by category context.
+	measure 'Baseline MAPE' = AVERAGE ( FactForecastMetrics[mape_pct] )
+		formatString: 0.0
+
+	/// Four-week rolling MAPE from backtest window.
+	measure 'Rolling MAPE 4W' = AVERAGE ( FactRollingForecastError[rolling_mape_4w] )
+		formatString: 0.0
+
+	/// Actual search interest (complete weeks).
+	measure 'Search Interest Actual' =
+			CALCULATE (
+			    SUM ( FactRollingForecastError[actual] ),
+			    NOT ISBLANK ( FactRollingForecastError[actual] )
+			)
+		formatString: 0.0
+
+	measure 'Search Interest Forecast' = SUM ( FactRollingForecastError[predicted] )
+		formatString: 0.0
+
+	measure 'Forecast Gap' = [Search Interest Actual] - [Search Interest Forecast]
+		formatString: 0.0
+
+	/// Categories with MAPE >= 25% (Electronics, Clothing).
+	measure 'High Uncertainty Categories' =
+			CALCULATE (
+			    COUNTROWS ( FactInventoryPlanning ),
+			    FactInventoryPlanning[high_uncertainty_flag] = TRUE ()
+			)
+		formatString: 0
+
+	measure 'High Uncertainty Label' =
+			IF (
+			    SELECTEDVALUE ( FactInventoryPlanning[high_uncertainty_flag] ) = TRUE (),
+			    "High uncertainty — MAPE >= 25%",
+			    "Standard reorder confidence"
+			)
+
+	/// Raw catalog depth — do not imply parity (DQ-025).
+	measure 'Catalog Product Count' = SUM ( DimCategory[catalog_product_count] )
+		formatString: #,0
+
+	/// Normalized catalog display helper.
+	measure 'Catalog Share of Max' = AVERAGE ( DimCategory[catalog_share_of_max] )
+		formatString: 0.0%
+
+	/// Census retail sales sanity-check series (millions USD, NSA).
+	measure 'Census Retail Sales (M USD)' = SUM ( FactCensusRetail[sales_millions_nsa] )
+		formatString: #,0
+
+	/// Year-over-year change in Census sales for selected period.
+	measure 'Census Sales YoY %' =
+			VAR ThisYear = [Census Retail Sales (M USD)]
+			VAR LastYear =
+			    CALCULATE (
+			        [Census Retail Sales (M USD)],
+			        SAMEPERIODLASTYEAR ( FactCensusRetail[period] )
+			    )
+			RETURN
+			    DIVIDE ( ThisYear - LastYear, LastYear )
+		formatString: 0.0%
+
+	/// Trends interest for seasonality page (excludes partial weeks).
+	measure 'Search Interest (Complete Weeks)' =
+			CALCULATE (
+			    SUM ( FactSearchInterest[interest] ),
+			    FactSearchInterest[is_partial] = FALSE ()
+			)
+		formatString: 0
+
+	column Dummy
+		isHidden
+		sourceColumn: [Dummy]
+
+	partition _Metrics = calculated
+		mode: import
+		source = ROW ( "Dummy", BLANK () )
+
+	annotation PBI_ResultType = Table

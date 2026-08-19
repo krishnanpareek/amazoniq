@@ -1,0 +1,19 @@
+relationship FactSearchInterest_DimCategory
+	fromColumn: FactSearchInterest.category_id
+	toColumn: DimCategory.category_id
+
+relationship FactRollingForecastError_DimCategory
+	fromColumn: FactRollingForecastError.category_id
+	toColumn: DimCategory.category_id
+
+relationship FactInventoryPlanning_DimCategory
+	fromColumn: FactInventoryPlanning.category_id
+	toColumn: DimCategory.category_id
+
+relationship FactForecastMetrics_DimCategory
+	fromColumn: FactForecastMetrics.category_id
+	toColumn: DimCategory.category_id
+
+relationship FactCensusRetail_DimCategory
+	fromColumn: FactCensusRetail.category_id
+	toColumn: DimCategory.category_id

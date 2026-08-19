@@ -1,0 +1,7 @@
+category_id,category_name,keyword,census_naics,census_label,catalog_product_count,baseline_mape_pct,catalog_share_of_max
+electronics,Electronics,headphones,443,Electronics and Appliance Stores,49452,30.22,0.35
+home_kitchen,Home & Kitchen,air fryer,442,Furniture and Home Furnishings Stores,17717,19.58,0.1254
+clothing,Clothing & Accessories,running shoes,448,Clothing and Clothing Accessories Stores,141291,40.04,1.0
+health,Health & Personal Care,vitamins,446,Health and Personal Care Stores,31423,14.51,0.2224
+garden,"Patio, Lawn & Garden",lawn mower,444,Building Material and Garden Equipment and Supplies Dealers,5345,18.89,0.0378
+toys,Toys & Games,toys,451,"Sporting Goods, Hobby, Book, and Music Stores",83133,16.66,0.5884

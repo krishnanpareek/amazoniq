@@ -1,0 +1,47 @@
+# Environment and secrets — never commit credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*secret*
+*apikey*
+*api_key*
+*token*.json
+
+# Power BI backups
+*.pbix.bak
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python / notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large raw source files — keep READMEs/.gitkeep; document source URLs instead of committing multi-MB downloads
+data/raw/**/*.csv
+data/raw/**/*.tsv
+data/raw/**/*.xlsx
+data/raw/**/*.xls
+data/raw/**/*.zip
+data/raw/**/*.gz
+data/raw/**/*.json
+data/raw/**/*.jsonl
+data/raw/**/*.parquet
+data/raw/**/*.xml
+data/raw/**/*.pdf
+
+# Allow small placeholder / inventory companions under raw
+!data/raw/**/README.md
+!data/raw/**/.gitkeep

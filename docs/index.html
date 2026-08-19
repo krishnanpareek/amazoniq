@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AmazonIQ — Interactive Companion Dashboard</title>
+  <meta name="description" content="Public-data demand forecasting and inventory planning companion to the AmazonIQ Power BI model. Search interest proxy only — not warehouse units." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Outfit:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div>
+          <p class="eyebrow">Interactive companion · Public data only</p>
+          <h1>AmazonIQ</h1>
+        </div>
+      </div>
+      <p class="header-note">
+        Lightweight HTML view of the same processed facts as
+        <code>dashboard/AmazonIQ.pbip</code>. Primary DAX proof remains the Power BI model.
+      </p>
+    </div>
+    <nav class="section-nav" aria-label="Dashboard sections">
+      <a href="#overview">Overview</a>
+      <a href="#forecast">Forecast</a>
+      <a href="#inventory">Inventory</a>
+      <a href="#data-quality">Data quality</a>
+    </nav>
+  </header>
+
+  <main class="main">
+    <!-- 1. Executive overview -->
+    <section id="overview" class="section">
+      <div class="section-head">
+        <h2>Executive overview</h2>
+        <p class="lead" id="framingSentence"></p>
+      </div>
+
+      <div class="kpi-grid" id="kpiGrid"></div>
+
+      <div class="panel-grid">
+        <article class="panel">
+          <h3>Backtest MAPE by category</h3>
+          <p class="hint">26-week Prophet holdout · Google Trends search interest (0–100 index)</p>
+          <div class="chart-wrap">
+            <canvas id="mapeChart" aria-label="MAPE by category bar chart"></canvas>
+          </div>
+        </article>
+        <article class="panel">
+          <h3>Catalog depth (raw mapped counts)</h3>
+          <p class="hint">DQ-025 — do not imply category parity</p>
+          <div class="chart-wrap">
+            <canvas id="catalogChart" aria-label="Catalog product count by category"></canvas>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- 2. Forecast vs actual -->
+    <section id="forecast" class="section">
+      <div class="section-head">
+        <h2>Forecast vs actual</h2>
+        <p class="hint">Prophet holdout window · actual vs predicted search interest</p>
+      </div>
+
+      <div class="control-row">
+        <label for="categorySelect">Category</label>
+        <select id="categorySelect" aria-label="Select category for forecast chart"></select>
+        <span class="mape-badge" id="categoryMapeBadge"></span>
+      </div>
+
+      <article class="panel panel-wide">
+        <div class="chart-wrap chart-wrap-tall">
+          <canvas id="forecastChart" aria-label="Forecast vs actual line chart"></canvas>
+        </div>
+      </article>
+    </section>
+
+    <!-- 3. Inventory planning -->
+    <section id="inventory" class="section">
+      <div class="section-head">
+        <h2>Inventory planning</h2>
+        <p class="hint">
+          Custom MAPE-adjusted safety stock at stated 95% service level · 2-week illustrative lead time ·
+          <strong>modeled</strong> on search-interest index, not warehouse units
+        </p>
+      </div>
+
+      <div class="tier-legend" id="tierLegend"></div>
+
+      <div class="panel-grid">
+        <article class="panel">
+          <h3>Safety stock by category</h3>
+          <div class="chart-wrap">
+            <canvas id="safetyStockChart" aria-label="Safety stock by category"></canvas>
+          </div>
+        </article>
+        <article class="panel">
+          <h3>Reorder point by category</h3>
+          <div class="chart-wrap">
+            <canvas id="reorderPointChart" aria-label="Reorder point by category"></canvas>
+          </div>
+        </article>
+      </div>
+
+      <article class="panel panel-wide">
+        <h3>Planning table</h3>
+        <div class="table-wrap">
+          <table id="inventoryTable">
+            <thead>
+              <tr>
+                <th>Category</th>
+                <th>MAPE</th>
+                <th>Tier</th>
+                <th>Safety stock</th>
+                <th>Reorder point</th>
+                <th>High uncertainty</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+
+    <!-- 4. Data quality -->
+    <section id="data-quality" class="section section-dq">
+      <div class="section-head">
+        <h2>Data quality catches</h2>
+        <p class="lead">
+          The differentiator for this portfolio — source defects caught and logged before modeling,
+          same framing as <code>reports/executive_summary.md</code>.
+        </p>
+      </div>
+      <div class="dq-grid" id="dqGrid"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      <strong>Public data only.</strong> Not an Amazon product. Not Seller Central. Not warehouse units.
+      Forecast target is U.S. Google Trends search interest, not orders or GMV.
+    </p>
+    <p class="footer-meta">
+      Companion to Power BI / DAX · Generated data embed via <code>src/build_web_data.py</code>
+      · <span id="generatedAt"></span>
+    </p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

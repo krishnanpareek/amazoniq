@@ -1,0 +1,70 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "6450fd83e5d94a458bb8",
+  "position": {
+    "x": 680,
+    "y": 40,
+    "z": 1000,
+    "width": 560,
+    "height": 360,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "clusteredBarChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "DimCategory"
+                    }
+                  },
+                  "Property": "category_name"
+                }
+              },
+              "queryRef": "DimCategory.category_name",
+              "nativeQueryRef": "category_name"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "Reorder Point (Modeled)"
+                }
+              },
+              "queryRef": "_Metrics.Reorder Point (Modeled)",
+              "nativeQueryRef": "Reorder Point (Modeled)"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "Reorder Point (Stored)"
+                }
+              },
+              "queryRef": "_Metrics.Reorder Point (Stored)",
+              "nativeQueryRef": "Reorder Point (Stored)"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

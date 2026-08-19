@@ -1,0 +1,108 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "7c2140ce968b4a18b459",
+  "position": {
+    "x": 40,
+    "y": 420,
+    "z": 1000,
+    "width": 1200,
+    "height": 260,
+    "tabOrder": 1000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "DimCategory"
+                    }
+                  },
+                  "Property": "category_name"
+                }
+              },
+              "queryRef": "DimCategory.category_name",
+              "nativeQueryRef": "category_name"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FactInventoryPlanning"
+                    }
+                  },
+                  "Property": "uncertainty_tier"
+                }
+              },
+              "queryRef": "FactInventoryPlanning.uncertainty_tier",
+              "nativeQueryRef": "uncertainty_tier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FactInventoryPlanning"
+                    }
+                  },
+                  "Property": "mape_pct_baseline"
+                }
+              },
+              "queryRef": "Sum(FactInventoryPlanning.mape_pct_baseline)",
+              "nativeQueryRef": "mape_pct_baseline"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FactInventoryPlanning"
+                    }
+                  },
+                  "Property": "mape_buffer_multiplier"
+                }
+              },
+              "queryRef": "Average(FactInventoryPlanning.mape_buffer_multiplier)",
+              "nativeQueryRef": "mape_buffer_multiplier"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "FactInventoryPlanning"
+                    }
+                  },
+                  "Property": "high_uncertainty_flag"
+                }
+              },
+              "queryRef": "FactInventoryPlanning.high_uncertainty_flag",
+              "nativeQueryRef": "high_uncertainty_flag"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "_Metrics"
+                    }
+                  },
+                  "Property": "High Uncertainty Label"
+                }
+              },
+              "queryRef": "_Metrics.High Uncertainty Label",
+              "nativeQueryRef": "High Uncertainty Label"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

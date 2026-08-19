@@ -1,0 +1,1573 @@
+week_start,category_id,category_name,keyword,geo,timeframe,interest,is_partial,source_id,source_file
+2021-08-15,electronics,Electronics,headphones,US,today 5-y,19,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-08-22,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-08-29,electronics,Electronics,headphones,US,today 5-y,19,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-09-05,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-09-12,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-09-19,electronics,Electronics,headphones,US,today 5-y,19,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-09-26,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-10-03,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-10-10,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-10-17,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-10-24,electronics,Electronics,headphones,US,today 5-y,18,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-10-31,electronics,Electronics,headphones,US,today 5-y,19,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-11-07,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-11-14,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-11-21,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-11-28,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-12-05,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-12-12,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-12-19,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2021-12-26,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-01-02,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-01-09,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-01-16,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-01-23,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-01-30,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-02-06,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-02-13,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-02-20,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-02-27,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-03-06,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-03-13,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-03-20,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-03-27,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-04-03,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-04-10,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-04-17,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-04-24,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-05-01,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-05-08,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-05-15,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-05-22,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-05-29,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-06-05,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-06-12,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-06-19,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-06-26,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-07-03,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-07-10,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-07-17,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-07-24,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-07-31,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-08-07,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-08-14,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-08-21,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-08-28,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-09-04,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-09-11,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-09-18,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-09-25,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-10-02,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-10-09,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-10-16,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-10-23,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-10-30,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-11-06,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-11-13,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-11-20,electronics,Electronics,headphones,US,today 5-y,36,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-11-27,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-12-04,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-12-11,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-12-18,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2022-12-25,electronics,Electronics,headphones,US,today 5-y,36,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-01-01,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-01-08,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-01-15,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-01-22,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-01-29,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-02-05,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-02-12,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-02-19,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-02-26,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-03-05,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-03-12,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-03-19,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-03-26,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-04-02,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-04-09,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-04-16,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-04-23,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-04-30,electronics,Electronics,headphones,US,today 5-y,20,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-05-07,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-05-14,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-05-21,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-05-28,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-06-04,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-06-11,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-06-18,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-06-25,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-07-02,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-07-09,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-07-16,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-07-23,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-07-30,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-08-06,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-08-13,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-08-20,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-08-27,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-09-03,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-09-10,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-09-17,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-09-24,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-10-01,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-10-08,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-10-15,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-10-22,electronics,Electronics,headphones,US,today 5-y,21,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-10-29,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-11-05,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-11-12,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-11-19,electronics,Electronics,headphones,US,today 5-y,41,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-11-26,electronics,Electronics,headphones,US,today 5-y,35,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-12-03,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-12-10,electronics,Electronics,headphones,US,today 5-y,33,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-12-17,electronics,Electronics,headphones,US,today 5-y,32,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-12-24,electronics,Electronics,headphones,US,today 5-y,38,False,SRC-TRENDS-001,electronics_headphones.csv
+2023-12-31,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-01-07,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-01-14,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-01-21,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-01-28,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-02-04,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-02-11,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-02-18,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-02-25,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-03-03,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-03-10,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-03-17,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-03-24,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-03-31,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-04-07,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-04-14,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-04-21,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-04-28,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-05-05,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-05-12,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-05-19,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-05-26,electronics,Electronics,headphones,US,today 5-y,32,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-06-02,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-06-09,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-06-16,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-06-23,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-06-30,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-07-07,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-07-14,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-07-21,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-07-28,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-08-04,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-08-11,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-08-18,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-08-25,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-09-01,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-09-08,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-09-15,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-09-22,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-09-29,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-10-06,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-10-13,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-10-20,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-10-27,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-11-03,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-11-10,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-11-17,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-11-24,electronics,Electronics,headphones,US,today 5-y,43,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-12-01,electronics,Electronics,headphones,US,today 5-y,37,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-12-08,electronics,Electronics,headphones,US,today 5-y,34,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-12-15,electronics,Electronics,headphones,US,today 5-y,35,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-12-22,electronics,Electronics,headphones,US,today 5-y,45,False,SRC-TRENDS-001,electronics_headphones.csv
+2024-12-29,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-01-05,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-01-12,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-01-19,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-01-26,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-02-02,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-02-09,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-02-16,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-02-23,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-03-02,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-03-09,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-03-16,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-03-23,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-03-30,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-04-06,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-04-13,electronics,Electronics,headphones,US,today 5-y,22,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-04-20,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-04-27,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-05-04,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-05-11,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-05-18,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-05-25,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-06-01,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-06-08,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-06-15,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-06-22,electronics,Electronics,headphones,US,today 5-y,23,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-06-29,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-07-06,electronics,Electronics,headphones,US,today 5-y,32,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-07-13,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-07-20,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-07-27,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-08-03,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-08-10,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-08-17,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-08-24,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-08-31,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-09-07,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-09-14,electronics,Electronics,headphones,US,today 5-y,27,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-09-21,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-09-28,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-10-05,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-10-12,electronics,Electronics,headphones,US,today 5-y,25,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-10-19,electronics,Electronics,headphones,US,today 5-y,26,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-10-26,electronics,Electronics,headphones,US,today 5-y,24,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-11-02,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-11-09,electronics,Electronics,headphones,US,today 5-y,32,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-11-16,electronics,Electronics,headphones,US,today 5-y,38,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-11-23,electronics,Electronics,headphones,US,today 5-y,50,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-11-30,electronics,Electronics,headphones,US,today 5-y,42,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-12-07,electronics,Electronics,headphones,US,today 5-y,39,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-12-14,electronics,Electronics,headphones,US,today 5-y,37,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-12-21,electronics,Electronics,headphones,US,today 5-y,45,False,SRC-TRENDS-001,electronics_headphones.csv
+2025-12-28,electronics,Electronics,headphones,US,today 5-y,35,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-01-04,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-01-11,electronics,Electronics,headphones,US,today 5-y,33,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-01-18,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-01-25,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-02-01,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-02-08,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-02-15,electronics,Electronics,headphones,US,today 5-y,30,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-02-22,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-03-01,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-03-08,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-03-15,electronics,Electronics,headphones,US,today 5-y,32,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-03-22,electronics,Electronics,headphones,US,today 5-y,57,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-03-29,electronics,Electronics,headphones,US,today 5-y,80,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-04-05,electronics,Electronics,headphones,US,today 5-y,88,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-04-12,electronics,Electronics,headphones,US,today 5-y,100,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-04-19,electronics,Electronics,headphones,US,today 5-y,83,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-04-26,electronics,Electronics,headphones,US,today 5-y,67,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-05-03,electronics,Electronics,headphones,US,today 5-y,71,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-05-10,electronics,Electronics,headphones,US,today 5-y,68,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-05-17,electronics,Electronics,headphones,US,today 5-y,48,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-05-24,electronics,Electronics,headphones,US,today 5-y,40,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-05-31,electronics,Electronics,headphones,US,today 5-y,39,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-06-07,electronics,Electronics,headphones,US,today 5-y,45,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-06-14,electronics,Electronics,headphones,US,today 5-y,44,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-06-21,electronics,Electronics,headphones,US,today 5-y,52,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-06-28,electronics,Electronics,headphones,US,today 5-y,33,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-07-05,electronics,Electronics,headphones,US,today 5-y,31,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-07-12,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-07-19,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-07-26,electronics,Electronics,headphones,US,today 5-y,28,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-08-02,electronics,Electronics,headphones,US,today 5-y,29,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-08-09,electronics,Electronics,headphones,US,today 5-y,38,False,SRC-TRENDS-001,electronics_headphones.csv
+2026-08-16,electronics,Electronics,headphones,US,today 5-y,32,True,SRC-TRENDS-001,electronics_headphones.csv
+2021-08-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-08-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-08-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-09-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-09-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-09-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-09-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-10-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-10-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-10-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-10-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-10-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-11-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-11-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-11-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,72,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-11-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-12-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-12-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,61,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-12-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,68,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-12-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,95,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-01-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,100,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-01-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,91,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-01-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,82,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-01-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,77,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-01-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,82,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-02-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,82,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-02-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,78,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-02-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,72,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-02-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,69,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-03-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,65,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-03-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,65,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-03-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,66,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-03-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-04-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,62,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-04-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-04-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-04-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-05-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-05-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-05-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-05-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-05-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-06-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,59,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-06-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-06-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-06-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-07-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,61,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-07-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,67,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-07-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,64,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-07-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,68,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-07-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-08-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-08-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,62,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-08-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,61,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-08-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-09-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-09-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-09-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-09-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-10-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-10-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-10-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-10-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-10-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-11-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-11-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,65,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-11-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,72,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-11-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-12-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,62,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-12-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-12-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,65,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2022-12-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,85,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-01-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,83,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-01-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,80,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-01-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,77,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-01-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,73,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-01-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,71,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-02-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,67,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-02-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,72,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-02-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,74,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-02-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,68,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-03-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-03-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,64,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-03-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,63,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-03-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,61,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-04-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-04-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,53,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-04-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-04-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-04-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-05-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-05-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-05-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-05-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-06-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-06-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-06-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-06-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-07-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-07-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,59,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-07-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-07-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-07-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-08-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-08-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-08-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-08-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-09-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-09-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-09-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-09-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-10-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-10-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-10-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-10-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-10-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-11-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-11-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,59,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-11-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,70,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-11-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-12-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-12-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-12-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-12-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,67,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2023-12-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,69,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-01-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,64,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-01-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,65,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-01-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-01-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-02-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-02-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-02-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-02-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-03-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-03-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-03-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-03-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-03-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-04-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-04-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-04-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-04-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-05-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-05-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,41,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-05-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-05-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-06-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-06-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-06-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-06-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-06-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-07-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-07-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-07-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-07-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-08-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-08-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-08-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-08-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-09-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-09-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-09-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-09-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-09-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,42,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-10-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-10-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-10-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-10-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-11-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-11-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-11-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-11-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-12-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-12-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-12-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-12-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2024-12-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,62,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-01-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,61,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-01-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-01-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-01-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-02-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-02-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-02-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-02-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-03-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-03-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-03-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-03-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-03-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-04-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-04-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-04-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,41,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-04-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-05-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,41,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-05-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-05-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-05-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-06-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-06-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-06-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-06-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-06-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-07-06,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-07-13,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-07-20,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-07-27,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-08-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-08-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-08-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-08-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-08-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-09-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-09-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,42,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-09-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,44,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-09-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,40,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-10-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-10-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,43,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-10-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,45,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-10-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,46,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-11-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-11-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-11-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-11-23,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-11-30,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-12-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-12-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,47,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-12-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2025-12-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-01-04,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,59,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-01-11,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-01-18,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-01-25,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-02-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,54,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-02-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,53,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-02-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-02-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-03-01,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,48,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-03-08,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,52,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-03-15,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-03-22,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,58,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-03-29,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,70,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-04-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,78,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-04-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,83,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-04-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,74,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-04-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,64,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-05-03,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,72,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-05-10,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,67,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-05-17,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-05-24,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,56,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-05-31,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,51,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-06-07,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,57,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-06-14,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-06-21,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-06-28,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,53,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-07-05,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-07-12,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,49,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-07-19,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,50,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-07-26,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,55,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-08-02,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,53,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-08-09,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,False,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2026-08-16,home_kitchen,Home & Kitchen,air fryer,US,today 5-y,60,True,SRC-TRENDS-001,home_kitchen_air_fryer.csv
+2021-08-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-08-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-08-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-09-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-09-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-09-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-09-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-10-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-10-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-10-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-10-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-10-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-11-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-11-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-11-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-11-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-12-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-12-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-12-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-12-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-01-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-01-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-01-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-01-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-01-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-02-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-02-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-02-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-02-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-03-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-03-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-03-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-03-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-04-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-04-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-04-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-04-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-05-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-05-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-05-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-05-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-05-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-06-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-06-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-06-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-06-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-07-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-07-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-07-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-07-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-07-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-08-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-08-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-08-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-08-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-09-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-09-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-09-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-09-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,12,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-10-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-10-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-10-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-10-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,12,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-10-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-11-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-11-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-11-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-11-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-12-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-12-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-12-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,12,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2022-12-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-01-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-01-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-01-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-01-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-01-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-02-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-02-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-02-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-02-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-03-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-03-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-03-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-03-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-04-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-04-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-04-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-04-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-04-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-05-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-05-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-05-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-05-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-06-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-06-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-06-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-06-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-07-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-07-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-07-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-07-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-07-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-08-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-08-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-08-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-08-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-09-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-09-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-09-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-09-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-10-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-10-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-10-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-10-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,12,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-10-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,12,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-11-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-11-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-11-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,19,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-11-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-12-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-12-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-12-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-12-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2023-12-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-01-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-01-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-01-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-01-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-02-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-02-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-02-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-02-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-03-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-03-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-03-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-03-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-03-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-04-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-04-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-04-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-04-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-05-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-05-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-05-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-05-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-06-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-06-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-06-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-06-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-06-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-07-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-07-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-07-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-07-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-08-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,19,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-08-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,19,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-08-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-08-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-09-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-09-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-09-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-09-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-09-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-10-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-10-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-10-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-10-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-11-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-11-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-11-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-11-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,21,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-12-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-12-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-12-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-12-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2024-12-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-01-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-01-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-01-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-01-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,13,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-02-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-02-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-02-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-02-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-03-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-03-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-03-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-03-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-03-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-04-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-04-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-04-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-04-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-05-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-05-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-05-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-05-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-06-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-06-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-06-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-06-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-06-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-07-06,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-07-13,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-07-20,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-07-27,clothing,Clothing & Accessories,running shoes,US,today 5-y,20,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-08-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,20,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-08-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,20,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-08-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-08-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-08-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-09-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,15,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-09-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-09-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-09-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-10-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-10-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-10-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-10-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,14,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-11-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-11-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-11-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-11-23,clothing,Clothing & Accessories,running shoes,US,today 5-y,23,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-11-30,clothing,Clothing & Accessories,running shoes,US,today 5-y,20,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-12-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-12-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,16,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-12-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2025-12-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-01-04,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-01-11,clothing,Clothing & Accessories,running shoes,US,today 5-y,18,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-01-18,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-01-25,clothing,Clothing & Accessories,running shoes,US,today 5-y,17,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-02-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,20,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-02-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,25,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-02-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,27,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-02-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,26,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-03-01,clothing,Clothing & Accessories,running shoes,US,today 5-y,24,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-03-08,clothing,Clothing & Accessories,running shoes,US,today 5-y,23,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-03-15,clothing,Clothing & Accessories,running shoes,US,today 5-y,25,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-03-22,clothing,Clothing & Accessories,running shoes,US,today 5-y,37,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-03-29,clothing,Clothing & Accessories,running shoes,US,today 5-y,71,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-04-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,93,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-04-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,100,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-04-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,74,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-04-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,61,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-05-03,clothing,Clothing & Accessories,running shoes,US,today 5-y,63,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-05-10,clothing,Clothing & Accessories,running shoes,US,today 5-y,74,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-05-17,clothing,Clothing & Accessories,running shoes,US,today 5-y,68,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-05-24,clothing,Clothing & Accessories,running shoes,US,today 5-y,46,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-05-31,clothing,Clothing & Accessories,running shoes,US,today 5-y,46,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-06-07,clothing,Clothing & Accessories,running shoes,US,today 5-y,55,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-06-14,clothing,Clothing & Accessories,running shoes,US,today 5-y,52,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-06-21,clothing,Clothing & Accessories,running shoes,US,today 5-y,52,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-06-28,clothing,Clothing & Accessories,running shoes,US,today 5-y,30,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-07-05,clothing,Clothing & Accessories,running shoes,US,today 5-y,28,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-07-12,clothing,Clothing & Accessories,running shoes,US,today 5-y,21,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-07-19,clothing,Clothing & Accessories,running shoes,US,today 5-y,22,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-07-26,clothing,Clothing & Accessories,running shoes,US,today 5-y,23,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-08-02,clothing,Clothing & Accessories,running shoes,US,today 5-y,24,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-08-09,clothing,Clothing & Accessories,running shoes,US,today 5-y,39,False,SRC-TRENDS-001,clothing_running_shoes.csv
+2026-08-16,clothing,Clothing & Accessories,running shoes,US,today 5-y,29,True,SRC-TRENDS-001,clothing_running_shoes.csv
+2021-08-15,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2021-08-22,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2021-08-29,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2021-09-05,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2021-09-12,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2021-09-19,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2021-09-26,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2021-10-03,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2021-10-10,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2021-10-17,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2021-10-24,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2021-10-31,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2021-11-07,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2021-11-14,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2021-11-21,health,Health & Personal Care,vitamins,US,today 5-y,48,False,SRC-TRENDS-001,health_vitamins.csv
+2021-11-28,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2021-12-05,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2021-12-12,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2021-12-19,health,Health & Personal Care,vitamins,US,today 5-y,50,False,SRC-TRENDS-001,health_vitamins.csv
+2021-12-26,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2022-01-02,health,Health & Personal Care,vitamins,US,today 5-y,82,False,SRC-TRENDS-001,health_vitamins.csv
+2022-01-09,health,Health & Personal Care,vitamins,US,today 5-y,78,False,SRC-TRENDS-001,health_vitamins.csv
+2022-01-16,health,Health & Personal Care,vitamins,US,today 5-y,68,False,SRC-TRENDS-001,health_vitamins.csv
+2022-01-23,health,Health & Personal Care,vitamins,US,today 5-y,69,False,SRC-TRENDS-001,health_vitamins.csv
+2022-01-30,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2022-02-06,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2022-02-13,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2022-02-20,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2022-02-27,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2022-03-06,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2022-03-13,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2022-03-20,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2022-03-27,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2022-04-03,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2022-04-10,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-04-17,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2022-04-24,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2022-05-01,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-05-08,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-05-15,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-05-22,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2022-05-29,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2022-06-05,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-06-12,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-06-19,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2022-06-26,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-07-03,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-07-10,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-07-17,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2022-07-24,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-07-31,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2022-08-07,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2022-08-14,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-08-21,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-08-28,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-09-04,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-09-11,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2022-09-18,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-09-25,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2022-10-02,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2022-10-09,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-10-16,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2022-10-23,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2022-10-30,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2022-11-06,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-11-13,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-11-20,health,Health & Personal Care,vitamins,US,today 5-y,49,False,SRC-TRENDS-001,health_vitamins.csv
+2022-11-27,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-12-04,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2022-12-11,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2022-12-18,health,Health & Personal Care,vitamins,US,today 5-y,48,False,SRC-TRENDS-001,health_vitamins.csv
+2022-12-25,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-01-01,health,Health & Personal Care,vitamins,US,today 5-y,68,False,SRC-TRENDS-001,health_vitamins.csv
+2023-01-08,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2023-01-15,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2023-01-22,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2023-01-29,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2023-02-05,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2023-02-12,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2023-02-19,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2023-02-26,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2023-03-05,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2023-03-12,health,Health & Personal Care,vitamins,US,today 5-y,63,False,SRC-TRENDS-001,health_vitamins.csv
+2023-03-19,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2023-03-26,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2023-04-02,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2023-04-09,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-04-16,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2023-04-23,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2023-04-30,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-05-07,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-05-14,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-05-21,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-05-28,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-06-04,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2023-06-11,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2023-06-18,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-06-25,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-07-02,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-07-09,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-07-16,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-07-23,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2023-07-30,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-08-06,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-08-13,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-08-20,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-08-27,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2023-09-03,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-09-10,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-09-17,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-09-24,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-10-01,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-10-08,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-10-15,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2023-10-22,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-10-29,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2023-11-05,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2023-11-12,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-11-19,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2023-11-26,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2023-12-03,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-12-10,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2023-12-17,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2023-12-24,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2023-12-31,health,Health & Personal Care,vitamins,US,today 5-y,68,False,SRC-TRENDS-001,health_vitamins.csv
+2024-01-07,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2024-01-14,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2024-01-21,health,Health & Personal Care,vitamins,US,today 5-y,69,False,SRC-TRENDS-001,health_vitamins.csv
+2024-01-28,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2024-02-04,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2024-02-11,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2024-02-18,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2024-02-25,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2024-03-03,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2024-03-10,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2024-03-17,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2024-03-24,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2024-03-31,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2024-04-07,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2024-04-14,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2024-04-21,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2024-04-28,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-05-05,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-05-12,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2024-05-19,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-05-26,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-06-02,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-06-09,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2024-06-16,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2024-06-23,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2024-06-30,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-07-07,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-07-14,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-07-21,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-07-28,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-08-04,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-08-11,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2024-08-18,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2024-08-25,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-09-01,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-09-08,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2024-09-15,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-09-22,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-09-29,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-10-06,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-10-13,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-10-20,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2024-10-27,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-11-03,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-11-10,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2024-11-17,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2024-11-24,health,Health & Personal Care,vitamins,US,today 5-y,49,False,SRC-TRENDS-001,health_vitamins.csv
+2024-12-01,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2024-12-08,health,Health & Personal Care,vitamins,US,today 5-y,54,False,SRC-TRENDS-001,health_vitamins.csv
+2024-12-15,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-12-22,health,Health & Personal Care,vitamins,US,today 5-y,52,False,SRC-TRENDS-001,health_vitamins.csv
+2024-12-29,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2025-01-05,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2025-01-12,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2025-01-19,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2025-01-26,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2025-02-02,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2025-02-09,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-02-16,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2025-02-23,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2025-03-02,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2025-03-09,health,Health & Personal Care,vitamins,US,today 5-y,63,False,SRC-TRENDS-001,health_vitamins.csv
+2025-03-16,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2025-03-23,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2025-03-30,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-04-06,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2025-04-13,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-04-20,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2025-04-27,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2025-05-04,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2025-05-11,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2025-05-18,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2025-05-25,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2025-06-01,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-06-08,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2025-06-15,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2025-06-22,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2025-06-29,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2025-07-06,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-07-13,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2025-07-20,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-07-27,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-08-03,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2025-08-10,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-08-17,health,Health & Personal Care,vitamins,US,today 5-y,57,False,SRC-TRENDS-001,health_vitamins.csv
+2025-08-24,health,Health & Personal Care,vitamins,US,today 5-y,56,False,SRC-TRENDS-001,health_vitamins.csv
+2025-08-31,health,Health & Personal Care,vitamins,US,today 5-y,59,False,SRC-TRENDS-001,health_vitamins.csv
+2025-09-07,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-09-14,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-09-21,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2025-09-28,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2025-10-05,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2025-10-12,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2025-10-19,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2025-10-26,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-11-02,health,Health & Personal Care,vitamins,US,today 5-y,60,False,SRC-TRENDS-001,health_vitamins.csv
+2025-11-09,health,Health & Personal Care,vitamins,US,today 5-y,61,False,SRC-TRENDS-001,health_vitamins.csv
+2025-11-16,health,Health & Personal Care,vitamins,US,today 5-y,63,False,SRC-TRENDS-001,health_vitamins.csv
+2025-11-23,health,Health & Personal Care,vitamins,US,today 5-y,55,False,SRC-TRENDS-001,health_vitamins.csv
+2025-11-30,health,Health & Personal Care,vitamins,US,today 5-y,65,False,SRC-TRENDS-001,health_vitamins.csv
+2025-12-07,health,Health & Personal Care,vitamins,US,today 5-y,63,False,SRC-TRENDS-001,health_vitamins.csv
+2025-12-14,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2025-12-21,health,Health & Personal Care,vitamins,US,today 5-y,53,False,SRC-TRENDS-001,health_vitamins.csv
+2025-12-28,health,Health & Personal Care,vitamins,US,today 5-y,66,False,SRC-TRENDS-001,health_vitamins.csv
+2026-01-04,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-01-11,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-01-18,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2026-01-25,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2026-02-01,health,Health & Personal Care,vitamins,US,today 5-y,68,False,SRC-TRENDS-001,health_vitamins.csv
+2026-02-08,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2026-02-15,health,Health & Personal Care,vitamins,US,today 5-y,69,False,SRC-TRENDS-001,health_vitamins.csv
+2026-02-22,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-03-01,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-03-08,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2026-03-15,health,Health & Personal Care,vitamins,US,today 5-y,67,False,SRC-TRENDS-001,health_vitamins.csv
+2026-03-22,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2026-03-29,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-04-05,health,Health & Personal Care,vitamins,US,today 5-y,75,False,SRC-TRENDS-001,health_vitamins.csv
+2026-04-12,health,Health & Personal Care,vitamins,US,today 5-y,77,False,SRC-TRENDS-001,health_vitamins.csv
+2026-04-19,health,Health & Personal Care,vitamins,US,today 5-y,75,False,SRC-TRENDS-001,health_vitamins.csv
+2026-04-26,health,Health & Personal Care,vitamins,US,today 5-y,77,False,SRC-TRENDS-001,health_vitamins.csv
+2026-05-03,health,Health & Personal Care,vitamins,US,today 5-y,81,False,SRC-TRENDS-001,health_vitamins.csv
+2026-05-10,health,Health & Personal Care,vitamins,US,today 5-y,82,False,SRC-TRENDS-001,health_vitamins.csv
+2026-05-17,health,Health & Personal Care,vitamins,US,today 5-y,80,False,SRC-TRENDS-001,health_vitamins.csv
+2026-05-24,health,Health & Personal Care,vitamins,US,today 5-y,71,False,SRC-TRENDS-001,health_vitamins.csv
+2026-05-31,health,Health & Personal Care,vitamins,US,today 5-y,69,False,SRC-TRENDS-001,health_vitamins.csv
+2026-06-07,health,Health & Personal Care,vitamins,US,today 5-y,70,False,SRC-TRENDS-001,health_vitamins.csv
+2026-06-14,health,Health & Personal Care,vitamins,US,today 5-y,73,False,SRC-TRENDS-001,health_vitamins.csv
+2026-06-21,health,Health & Personal Care,vitamins,US,today 5-y,83,False,SRC-TRENDS-001,health_vitamins.csv
+2026-06-28,health,Health & Personal Care,vitamins,US,today 5-y,64,False,SRC-TRENDS-001,health_vitamins.csv
+2026-07-05,health,Health & Personal Care,vitamins,US,today 5-y,72,False,SRC-TRENDS-001,health_vitamins.csv
+2026-07-12,health,Health & Personal Care,vitamins,US,today 5-y,100,False,SRC-TRENDS-001,health_vitamins.csv
+2026-07-19,health,Health & Personal Care,vitamins,US,today 5-y,80,False,SRC-TRENDS-001,health_vitamins.csv
+2026-07-26,health,Health & Personal Care,vitamins,US,today 5-y,62,False,SRC-TRENDS-001,health_vitamins.csv
+2026-08-02,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2026-08-09,health,Health & Personal Care,vitamins,US,today 5-y,58,False,SRC-TRENDS-001,health_vitamins.csv
+2026-08-16,health,Health & Personal Care,vitamins,US,today 5-y,58,True,SRC-TRENDS-001,health_vitamins.csv
+2021-08-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-08-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-08-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-09-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-09-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,39,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-09-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,36,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-09-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,34,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-10-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,29,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-10-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,32,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-10-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,28,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-10-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,24,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-10-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,23,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-11-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,24,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-11-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,21,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-11-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-11-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-12-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,16,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-12-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-12-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-12-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,16,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-01-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,14,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-01-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-01-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-01-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-01-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,14,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-02-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-02-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,16,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-02-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-02-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,24,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-03-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,28,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-03-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,34,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-03-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,44,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-03-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-04-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,54,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-04-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,65,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-04-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,69,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-04-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,77,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-05-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,75,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-05-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,85,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-05-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,82,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-05-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,76,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-05-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,78,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-06-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,68,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-06-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,67,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-06-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,59,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-06-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-07-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,50,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-07-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-07-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-07-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-07-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,47,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-08-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,50,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-08-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-08-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,45,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-08-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,47,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-09-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,47,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-09-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,42,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-09-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,39,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-09-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,30,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-10-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,27,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-10-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,25,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-10-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,21,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-10-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,21,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-10-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,21,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-11-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-11-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-11-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,16,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-11-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-12-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-12-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-12-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2022-12-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-01-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-01-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-01-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-01-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-01-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-02-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-02-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-02-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-02-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,25,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-03-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,33,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-03-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,30,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-03-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,32,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-03-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,42,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-04-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-04-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,69,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-04-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,66,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-04-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,68,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-04-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,67,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-05-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,77,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-05-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,78,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-05-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,75,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-05-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,65,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-06-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,54,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-06-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-06-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-06-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,55,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-07-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,57,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-07-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,53,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-07-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-07-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,50,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-07-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-08-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,43,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-08-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,47,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-08-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,40,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-08-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,40,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-09-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,35,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-09-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,33,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-09-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,31,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-09-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,28,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-10-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,29,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-10-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,25,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-10-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,22,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-10-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,22,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-10-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-11-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-11-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-11-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-11-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-12-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-12-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-12-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-12-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2023-12-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-01-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-01-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-01-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-01-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-02-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-02-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-02-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-02-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,21,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-03-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,26,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-03-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,40,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-03-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,39,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-03-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-03-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-04-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,56,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-04-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,74,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-04-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,71,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-04-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,71,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-05-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,73,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-05-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,70,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-05-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,72,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-05-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,62,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-06-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,60,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-06-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,58,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-06-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-06-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,46,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-06-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-07-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,44,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-07-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,45,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-07-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,43,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-07-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,45,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-08-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,43,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-08-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,44,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-08-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,41,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-08-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,35,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-09-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,36,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-09-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,28,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-09-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,26,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-09-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,24,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-09-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,26,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-10-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,23,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-10-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-10-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-10-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-11-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-11-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-11-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,14,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-11-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-12-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-12-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-12-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-12-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2024-12-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-01-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,10,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-01-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-01-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,8,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-01-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,9,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-02-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-02-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-02-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-02-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,19,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-03-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-03-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,27,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-03-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,31,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-03-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,38,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-03-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,41,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-04-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,49,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-04-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,62,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-04-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,63,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-04-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,74,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-05-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,70,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-05-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,69,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-05-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,64,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-05-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,61,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-06-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,61,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-06-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,56,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-06-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,58,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-06-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,53,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-06-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,58,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-07-06,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,56,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-07-13,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,53,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-07-20,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,56,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-07-27,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-08-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,48,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-08-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,43,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-08-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,44,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-08-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,40,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-08-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,36,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-09-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,30,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-09-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,29,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-09-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,26,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-09-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,26,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-10-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,24,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-10-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,22,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-10-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-10-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,17,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-11-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-11-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,17,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-11-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,15,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-11-23,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,18,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-11-30,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-12-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-12-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-12-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2025-12-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-01-04,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-01-11,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,11,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-01-18,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,12,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-01-25,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,13,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-02-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,14,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-02-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,16,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-02-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,20,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-02-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,22,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-03-01,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,27,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-03-08,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,38,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-03-15,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,41,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-03-22,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,55,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-03-29,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,75,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-04-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,93,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-04-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,100,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-04-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,93,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-04-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,78,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-05-03,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,73,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-05-10,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,81,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-05-17,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,90,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-05-24,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,83,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-05-31,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,86,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-06-07,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,80,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-06-14,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,81,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-06-21,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,78,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-06-28,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,61,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-07-05,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,55,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-07-12,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-07-19,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,52,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-07-26,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-08-02,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,50,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-08-09,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,53,False,SRC-TRENDS-001,garden_lawn_mower.csv
+2026-08-16,garden,"Patio, Lawn & Garden",lawn mower,US,today 5-y,51,True,SRC-TRENDS-001,garden_lawn_mower.csv
+2021-08-15,toys,Toys & Games,toys,US,today 5-y,56,False,SRC-TRENDS-001,toys_toys.csv
+2021-08-22,toys,Toys & Games,toys,US,today 5-y,55,False,SRC-TRENDS-001,toys_toys.csv
+2021-08-29,toys,Toys & Games,toys,US,today 5-y,50,False,SRC-TRENDS-001,toys_toys.csv
+2021-09-05,toys,Toys & Games,toys,US,today 5-y,50,False,SRC-TRENDS-001,toys_toys.csv
+2021-09-12,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2021-09-19,toys,Toys & Games,toys,US,today 5-y,53,False,SRC-TRENDS-001,toys_toys.csv
+2021-09-26,toys,Toys & Games,toys,US,today 5-y,52,False,SRC-TRENDS-001,toys_toys.csv
+2021-10-03,toys,Toys & Games,toys,US,today 5-y,53,False,SRC-TRENDS-001,toys_toys.csv
+2021-10-10,toys,Toys & Games,toys,US,today 5-y,62,False,SRC-TRENDS-001,toys_toys.csv
+2021-10-17,toys,Toys & Games,toys,US,today 5-y,61,False,SRC-TRENDS-001,toys_toys.csv
+2021-10-24,toys,Toys & Games,toys,US,today 5-y,62,False,SRC-TRENDS-001,toys_toys.csv
+2021-10-31,toys,Toys & Games,toys,US,today 5-y,67,False,SRC-TRENDS-001,toys_toys.csv
+2021-11-07,toys,Toys & Games,toys,US,today 5-y,77,False,SRC-TRENDS-001,toys_toys.csv
+2021-11-14,toys,Toys & Games,toys,US,today 5-y,77,False,SRC-TRENDS-001,toys_toys.csv
+2021-11-21,toys,Toys & Games,toys,US,today 5-y,96,False,SRC-TRENDS-001,toys_toys.csv
+2021-11-28,toys,Toys & Games,toys,US,today 5-y,100,False,SRC-TRENDS-001,toys_toys.csv
+2021-12-05,toys,Toys & Games,toys,US,today 5-y,99,False,SRC-TRENDS-001,toys_toys.csv
+2021-12-12,toys,Toys & Games,toys,US,today 5-y,98,False,SRC-TRENDS-001,toys_toys.csv
+2021-12-19,toys,Toys & Games,toys,US,today 5-y,82,False,SRC-TRENDS-001,toys_toys.csv
+2021-12-26,toys,Toys & Games,toys,US,today 5-y,53,False,SRC-TRENDS-001,toys_toys.csv
+2022-01-02,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-01-09,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2022-01-16,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-01-23,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2022-01-30,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-02-06,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2022-02-13,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-02-20,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2022-02-27,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-03-06,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2022-03-13,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2022-03-20,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2022-03-27,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-04-03,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2022-04-10,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-04-17,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2022-04-24,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-05-01,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2022-05-08,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2022-05-15,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2022-05-22,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2022-05-29,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-06-05,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-06-12,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-06-19,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2022-06-26,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2022-07-03,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2022-07-10,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2022-07-17,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2022-07-24,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2022-07-31,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2022-08-07,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2022-08-14,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2022-08-21,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-08-28,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2022-09-04,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-09-11,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2022-09-18,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2022-09-25,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2022-10-02,toys,Toys & Games,toys,US,today 5-y,60,False,SRC-TRENDS-001,toys_toys.csv
+2022-10-09,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2022-10-16,toys,Toys & Games,toys,US,today 5-y,52,False,SRC-TRENDS-001,toys_toys.csv
+2022-10-23,toys,Toys & Games,toys,US,today 5-y,51,False,SRC-TRENDS-001,toys_toys.csv
+2022-10-30,toys,Toys & Games,toys,US,today 5-y,55,False,SRC-TRENDS-001,toys_toys.csv
+2022-11-06,toys,Toys & Games,toys,US,today 5-y,62,False,SRC-TRENDS-001,toys_toys.csv
+2022-11-13,toys,Toys & Games,toys,US,today 5-y,68,False,SRC-TRENDS-001,toys_toys.csv
+2022-11-20,toys,Toys & Games,toys,US,today 5-y,88,False,SRC-TRENDS-001,toys_toys.csv
+2022-11-27,toys,Toys & Games,toys,US,today 5-y,85,False,SRC-TRENDS-001,toys_toys.csv
+2022-12-04,toys,Toys & Games,toys,US,today 5-y,92,False,SRC-TRENDS-001,toys_toys.csv
+2022-12-11,toys,Toys & Games,toys,US,today 5-y,93,False,SRC-TRENDS-001,toys_toys.csv
+2022-12-18,toys,Toys & Games,toys,US,today 5-y,75,False,SRC-TRENDS-001,toys_toys.csv
+2022-12-25,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2023-01-01,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2023-01-08,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-01-15,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2023-01-22,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-01-29,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-02-05,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-02-12,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-02-19,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-02-26,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-03-05,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2023-03-12,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-03-19,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-03-26,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-04-02,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-04-09,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2023-04-16,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-04-23,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-04-30,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-05-07,toys,Toys & Games,toys,US,today 5-y,36,False,SRC-TRENDS-001,toys_toys.csv
+2023-05-14,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2023-05-21,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-05-28,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-06-04,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-06-11,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-06-18,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-06-25,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-07-02,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2023-07-09,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2023-07-16,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-07-23,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-07-30,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2023-08-06,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2023-08-13,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-08-20,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-08-27,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-09-03,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2023-09-10,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2023-09-17,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-09-24,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2023-10-01,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2023-10-08,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2023-10-15,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2023-10-22,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2023-10-29,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2023-11-05,toys,Toys & Games,toys,US,today 5-y,58,False,SRC-TRENDS-001,toys_toys.csv
+2023-11-12,toys,Toys & Games,toys,US,today 5-y,65,False,SRC-TRENDS-001,toys_toys.csv
+2023-11-19,toys,Toys & Games,toys,US,today 5-y,80,False,SRC-TRENDS-001,toys_toys.csv
+2023-11-26,toys,Toys & Games,toys,US,today 5-y,82,False,SRC-TRENDS-001,toys_toys.csv
+2023-12-03,toys,Toys & Games,toys,US,today 5-y,86,False,SRC-TRENDS-001,toys_toys.csv
+2023-12-10,toys,Toys & Games,toys,US,today 5-y,86,False,SRC-TRENDS-001,toys_toys.csv
+2023-12-17,toys,Toys & Games,toys,US,today 5-y,82,False,SRC-TRENDS-001,toys_toys.csv
+2023-12-24,toys,Toys & Games,toys,US,today 5-y,55,False,SRC-TRENDS-001,toys_toys.csv
+2023-12-31,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2024-01-07,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-01-14,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2024-01-21,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2024-01-28,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-02-04,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-02-11,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-02-18,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-02-25,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-03-03,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2024-03-10,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-03-17,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2024-03-24,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2024-03-31,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-04-07,toys,Toys & Games,toys,US,today 5-y,35,False,SRC-TRENDS-001,toys_toys.csv
+2024-04-14,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-04-21,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-04-28,toys,Toys & Games,toys,US,today 5-y,36,False,SRC-TRENDS-001,toys_toys.csv
+2024-05-05,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2024-05-12,toys,Toys & Games,toys,US,today 5-y,36,False,SRC-TRENDS-001,toys_toys.csv
+2024-05-19,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2024-05-26,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2024-06-02,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-06-09,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-06-16,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-06-23,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2024-06-30,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2024-07-07,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2024-07-14,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2024-07-21,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2024-07-28,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2024-08-04,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2024-08-11,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2024-08-18,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2024-08-25,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2024-09-01,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2024-09-08,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2024-09-15,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2024-09-22,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2024-09-29,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2024-10-06,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2024-10-13,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2024-10-20,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2024-10-27,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2024-11-03,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2024-11-10,toys,Toys & Games,toys,US,today 5-y,59,False,SRC-TRENDS-001,toys_toys.csv
+2024-11-17,toys,Toys & Games,toys,US,today 5-y,68,False,SRC-TRENDS-001,toys_toys.csv
+2024-11-24,toys,Toys & Games,toys,US,today 5-y,81,False,SRC-TRENDS-001,toys_toys.csv
+2024-12-01,toys,Toys & Games,toys,US,today 5-y,81,False,SRC-TRENDS-001,toys_toys.csv
+2024-12-08,toys,Toys & Games,toys,US,today 5-y,83,False,SRC-TRENDS-001,toys_toys.csv
+2024-12-15,toys,Toys & Games,toys,US,today 5-y,83,False,SRC-TRENDS-001,toys_toys.csv
+2024-12-22,toys,Toys & Games,toys,US,today 5-y,65,False,SRC-TRENDS-001,toys_toys.csv
+2024-12-29,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2025-01-05,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-01-12,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-01-19,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-01-26,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2025-02-02,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-02-09,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2025-02-16,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2025-02-23,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2025-03-02,toys,Toys & Games,toys,US,today 5-y,37,False,SRC-TRENDS-001,toys_toys.csv
+2025-03-09,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2025-03-16,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-03-23,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2025-03-30,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2025-04-06,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2025-04-13,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2025-04-20,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2025-04-27,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-05-04,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-05-11,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2025-05-18,toys,Toys & Games,toys,US,today 5-y,38,False,SRC-TRENDS-001,toys_toys.csv
+2025-05-25,toys,Toys & Games,toys,US,today 5-y,39,False,SRC-TRENDS-001,toys_toys.csv
+2025-06-01,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2025-06-08,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2025-06-15,toys,Toys & Games,toys,US,today 5-y,41,False,SRC-TRENDS-001,toys_toys.csv
+2025-06-22,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2025-06-29,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2025-07-06,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2025-07-13,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2025-07-20,toys,Toys & Games,toys,US,today 5-y,50,False,SRC-TRENDS-001,toys_toys.csv
+2025-07-27,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2025-08-03,toys,Toys & Games,toys,US,today 5-y,50,False,SRC-TRENDS-001,toys_toys.csv
+2025-08-10,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2025-08-17,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2025-08-24,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2025-08-31,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2025-09-07,toys,Toys & Games,toys,US,today 5-y,40,False,SRC-TRENDS-001,toys_toys.csv
+2025-09-14,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2025-09-21,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2025-09-28,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2025-10-05,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2025-10-12,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2025-10-19,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2025-10-26,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2025-11-02,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2025-11-09,toys,Toys & Games,toys,US,today 5-y,60,False,SRC-TRENDS-001,toys_toys.csv
+2025-11-16,toys,Toys & Games,toys,US,today 5-y,68,False,SRC-TRENDS-001,toys_toys.csv
+2025-11-23,toys,Toys & Games,toys,US,today 5-y,79,False,SRC-TRENDS-001,toys_toys.csv
+2025-11-30,toys,Toys & Games,toys,US,today 5-y,86,False,SRC-TRENDS-001,toys_toys.csv
+2025-12-07,toys,Toys & Games,toys,US,today 5-y,92,False,SRC-TRENDS-001,toys_toys.csv
+2025-12-14,toys,Toys & Games,toys,US,today 5-y,84,False,SRC-TRENDS-001,toys_toys.csv
+2025-12-21,toys,Toys & Games,toys,US,today 5-y,72,False,SRC-TRENDS-001,toys_toys.csv
+2025-12-28,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2026-01-04,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2026-01-11,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2026-01-18,toys,Toys & Games,toys,US,today 5-y,43,False,SRC-TRENDS-001,toys_toys.csv
+2026-01-25,toys,Toys & Games,toys,US,today 5-y,42,False,SRC-TRENDS-001,toys_toys.csv
+2026-02-01,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2026-02-08,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2026-02-15,toys,Toys & Games,toys,US,today 5-y,51,False,SRC-TRENDS-001,toys_toys.csv
+2026-02-22,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2026-03-01,toys,Toys & Games,toys,US,today 5-y,46,False,SRC-TRENDS-001,toys_toys.csv
+2026-03-08,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2026-03-15,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2026-03-22,toys,Toys & Games,toys,US,today 5-y,52,False,SRC-TRENDS-001,toys_toys.csv
+2026-03-29,toys,Toys & Games,toys,US,today 5-y,63,False,SRC-TRENDS-001,toys_toys.csv
+2026-04-05,toys,Toys & Games,toys,US,today 5-y,64,False,SRC-TRENDS-001,toys_toys.csv
+2026-04-12,toys,Toys & Games,toys,US,today 5-y,65,False,SRC-TRENDS-001,toys_toys.csv
+2026-04-19,toys,Toys & Games,toys,US,today 5-y,56,False,SRC-TRENDS-001,toys_toys.csv
+2026-04-26,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2026-05-03,toys,Toys & Games,toys,US,today 5-y,57,False,SRC-TRENDS-001,toys_toys.csv
+2026-05-10,toys,Toys & Games,toys,US,today 5-y,62,False,SRC-TRENDS-001,toys_toys.csv
+2026-05-17,toys,Toys & Games,toys,US,today 5-y,55,False,SRC-TRENDS-001,toys_toys.csv
+2026-05-24,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2026-05-31,toys,Toys & Games,toys,US,today 5-y,50,False,SRC-TRENDS-001,toys_toys.csv
+2026-06-07,toys,Toys & Games,toys,US,today 5-y,54,False,SRC-TRENDS-001,toys_toys.csv
+2026-06-14,toys,Toys & Games,toys,US,today 5-y,51,False,SRC-TRENDS-001,toys_toys.csv
+2026-06-21,toys,Toys & Games,toys,US,today 5-y,55,False,SRC-TRENDS-001,toys_toys.csv
+2026-06-28,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2026-07-05,toys,Toys & Games,toys,US,today 5-y,49,False,SRC-TRENDS-001,toys_toys.csv
+2026-07-12,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2026-07-19,toys,Toys & Games,toys,US,today 5-y,48,False,SRC-TRENDS-001,toys_toys.csv
+2026-07-26,toys,Toys & Games,toys,US,today 5-y,47,False,SRC-TRENDS-001,toys_toys.csv
+2026-08-02,toys,Toys & Games,toys,US,today 5-y,45,False,SRC-TRENDS-001,toys_toys.csv
+2026-08-09,toys,Toys & Games,toys,US,today 5-y,44,False,SRC-TRENDS-001,toys_toys.csv
+2026-08-16,toys,Toys & Games,toys,US,today 5-y,46,True,SRC-TRENDS-001,toys_toys.csv

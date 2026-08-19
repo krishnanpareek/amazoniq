@@ -1,0 +1,61 @@
+table DimCategory
+	lineageTag: dim-category
+
+	column category_id
+		dataType: string
+		lineageTag: dim-category-id
+		summarizeBy: none
+		sourceColumn: category_id
+
+	column category_name
+		dataType: string
+		lineageTag: dim-category-name
+		sourceColumn: category_name
+
+	column keyword
+		dataType: string
+		lineageTag: dim-keyword
+		sourceColumn: keyword
+
+	column census_naics
+		dataType: string
+		lineageTag: dim-census-naics
+		sourceColumn: census_naics
+
+	column census_label
+		dataType: string
+		lineageTag: dim-census-label
+		sourceColumn: census_label
+
+	column catalog_product_count
+		dataType: int64
+		formatString: #,0
+		lineageTag: dim-catalog-count
+		sourceColumn: catalog_product_count
+
+	column catalog_share_of_max
+		dataType: double
+		formatString: 0.0%
+		lineageTag: dim-catalog-share
+		sourceColumn: catalog_share_of_max
+
+	column baseline_mape_pct
+		dataType: double
+		formatString: 0.0
+		lineageTag: dim-baseline-mape
+		sourceColumn: baseline_mape_pct
+
+	partition DimCategory = m
+		mode: import
+		source = 
+		let
+			Source = Csv.Document(
+				File.Contents("../../../data/processed/dim_category.csv"),
+				[Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]
+			),
+			#"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+			#"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers", {{"category_id", type text}, {"category_name", type text}, {"keyword", type text}, {"census_naics", type text}, {"census_label", type text}, {"catalog_product_count", Int64.Type}, {"catalog_share_of_max", type number}, {"baseline_mape_pct", type number}})
+		in
+			#"Changed Type"
+
+	annotation PBI_ResultType = Table
