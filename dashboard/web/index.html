@@ -34,7 +34,6 @@
   </header>
 
   <main class="main">
-    <!-- 1. Executive overview -->
     <section id="overview" class="section">
       <div class="section-head">
         <h2>Executive overview</h2>
@@ -43,45 +42,44 @@
 
       <div class="kpi-grid" id="kpiGrid"></div>
 
-      <div class="panel-grid">
-        <article class="panel">
-          <h3>Backtest MAPE by category</h3>
-          <p class="hint">26-week Prophet holdout · Google Trends search interest (0–100 index)</p>
-          <div class="chart-wrap">
-            <canvas id="mapeChart" aria-label="MAPE by category bar chart"></canvas>
-          </div>
-        </article>
-        <article class="panel">
-          <h3>Catalog depth (raw mapped counts)</h3>
-          <p class="hint">DQ-025 — do not imply category parity</p>
-          <div class="chart-wrap">
-            <canvas id="catalogChart" aria-label="Catalog product count by category"></canvas>
-          </div>
-        </article>
-      </div>
+      <article class="panel panel-wide">
+        <h3>Backtest MAPE ranking</h3>
+        <p class="hint">26-week Prophet holdout · lowest (Health) to highest (Clothing) · bar color = category, border = uncertainty tier</p>
+        <div class="chart-wrap chart-wrap-mape">
+          <canvas id="mapeChart" aria-label="MAPE by category horizontal bar chart"></canvas>
+        </div>
+        <div class="tier-legend" id="mapeLegend"></div>
+      </article>
     </section>
 
-    <!-- 2. Forecast vs actual -->
     <section id="forecast" class="section">
       <div class="section-head">
         <h2>Forecast vs actual</h2>
-        <p class="hint">Prophet holdout window · actual vs predicted search interest</p>
+        <p class="hint">Weekly Google Trends actual vs Prophet fitted / forecast · shaded band is the 26-week holdout</p>
       </div>
 
       <div class="control-row">
         <label for="categorySelect">Category</label>
         <select id="categorySelect" aria-label="Select category for forecast chart"></select>
         <span class="mape-badge" id="categoryMapeBadge"></span>
+        <span class="holdout-chip">Holdout: 2026-02-15 → 2026-08-09</span>
       </div>
 
       <article class="panel panel-wide">
+        <div class="chart-wrap chart-wrap-series">
+          <canvas id="forecastChart" aria-label="Forecast vs actual time series"></canvas>
+        </div>
+      </article>
+
+      <article class="panel panel-wide">
+        <h3>Rolling 4-week MAPE</h3>
+        <p class="hint">Holdout window only · click a legend item to hide a category</p>
         <div class="chart-wrap chart-wrap-tall">
-          <canvas id="forecastChart" aria-label="Forecast vs actual line chart"></canvas>
+          <canvas id="rollingMapeChart" aria-label="Rolling four-week MAPE by category"></canvas>
         </div>
       </article>
     </section>
 
-    <!-- 3. Inventory planning -->
     <section id="inventory" class="section">
       <div class="section-head">
         <h2>Inventory planning</h2>
@@ -93,20 +91,13 @@
 
       <div class="tier-legend" id="tierLegend"></div>
 
-      <div class="panel-grid">
-        <article class="panel">
-          <h3>Safety stock by category</h3>
-          <div class="chart-wrap">
-            <canvas id="safetyStockChart" aria-label="Safety stock by category"></canvas>
-          </div>
-        </article>
-        <article class="panel">
-          <h3>Reorder point by category</h3>
-          <div class="chart-wrap">
-            <canvas id="reorderPointChart" aria-label="Reorder point by category"></canvas>
-          </div>
-        </article>
-      </div>
+      <article class="panel panel-wide">
+        <h3>Safety stock vs reorder point</h3>
+        <p class="hint">Grouped bars · Electronics and Clothing should show taller safety-stock buffers at the same service level</p>
+        <div class="chart-wrap chart-wrap-grouped">
+          <canvas id="inventoryGroupedChart" aria-label="Safety stock and reorder point grouped bar chart"></canvas>
+        </div>
+      </article>
 
       <article class="panel panel-wide">
         <h3>Planning table</h3>
@@ -128,7 +119,6 @@
       </article>
     </section>
 
-    <!-- 4. Data quality -->
     <section id="data-quality" class="section section-dq">
       <div class="section-head">
         <h2>Data quality catches</h2>
@@ -138,6 +128,19 @@
         </p>
       </div>
       <div class="dq-grid" id="dqGrid"></div>
+      <article class="panel panel-wide dq-catalog-panel">
+        <div class="dq-catalog-copy">
+          <div class="dq-id">DQ-025</div>
+          <h3>Catalog composition — 26.4× imbalance</h3>
+          <p class="hint">
+            Linear scale (not a pie) so garden vs clothing depth is visible. Equal 500-row samples hide this.
+            Raw mapped product counts from SRC-KAGGLE-002.
+          </p>
+        </div>
+        <div class="chart-wrap chart-wrap-catalog">
+          <canvas id="catalogChart" aria-label="Catalog product count by category"></canvas>
+        </div>
+      </article>
     </section>
   </main>
 
@@ -154,6 +157,7 @@
 
   <script src="data.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.1.0/dist/chartjs-plugin-annotation.min.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

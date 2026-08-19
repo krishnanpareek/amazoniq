@@ -257,6 +257,46 @@ h1 {
   height: 340px;
 }
 
+.chart-wrap-mape {
+  height: 280px;
+}
+
+.chart-wrap-series {
+  height: 380px;
+}
+
+.chart-wrap-grouped {
+  height: 320px;
+}
+
+.chart-wrap-catalog {
+  height: 260px;
+  flex: 1;
+  min-width: 0;
+}
+
+.holdout-chip {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--muted);
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  border: 1px dashed rgba(224, 122, 95, 0.45);
+  background: var(--accent-dim);
+}
+
+.dq-catalog-panel {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.9fr) minmax(280px, 1.4fr);
+  gap: 1.25rem;
+  align-items: center;
+  margin-top: 1.25rem;
+}
+
+.dq-catalog-copy .dq-id {
+  margin-bottom: 0.4rem;
+}
+
 /* Controls */
 .control-row {
   display: flex;
@@ -475,6 +515,16 @@ tr.tier-standard td:first-child {
 
   .chart-wrap-tall {
     height: 280px;
+  }
+
+  .chart-wrap-series,
+  .chart-wrap-grouped,
+  .chart-wrap-mape {
+    height: 260px;
+  }
+
+  .dq-catalog-panel {
+    grid-template-columns: 1fr;
   }
 
   .section {
